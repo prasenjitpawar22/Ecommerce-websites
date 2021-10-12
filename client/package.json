@@ -1,0 +1,19 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "This is client ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasenjitpawar22/Ecommerce-websites.git"
+  },
+  "author": "prasenjit pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasenjitpawar22/Ecommerce-websites/issues"
+  },
+  "homepage": "https://github.com/prasenjitpawar22/Ecommerce-websites#readme"
+}

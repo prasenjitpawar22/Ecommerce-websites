@@ -13,7 +13,7 @@ app.use(express.json());
 
 try {
   //connect to mongoose
-  const url = `mongodb+srv://prasen123:Prasen123%40@cluster0.wttu2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
+  const url = `mongodb+srv:connect`;
   const connectionParams = {
     useNewUrlParser: true,
     useCreateIndex: true,
